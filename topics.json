@@ -833,8 +833,8 @@
     {
         "id": 15,
         "topiccode": "T0000015",
-        "topicname": "Abdominal pain E fast",
-        "topicdata": "Abdominal pain E fast",
+        "topicname": "Abdominal pain",
+        "topicdata": "E fast",
         "topicmeta": "",
         "topicimage": "blue-protocol-main.jpg",
         "topicurl": "",
@@ -845,7 +845,7 @@
     {
         "id": 16,
         "topiccode": "T0000016",
-        "topicname": "Fracture detection",
+        "topicname": "Fractures",
         "topicdata": "Fracture detection",
         "topicmeta": "",
         "topicimage": "blue-protocol-main.jpg",
